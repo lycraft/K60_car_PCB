@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\可存储移动硬盘\pc2\Program\AltiumDesinger\智能车\A十五届板\第十五届初电磁\PCB1.PcbDoc
+Date         : 2020/7/19
+Time         : 13:59:53
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 188
+    Connections routed, 188
+    Connections remaining, 0
+count : 4
